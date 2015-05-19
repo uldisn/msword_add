@@ -1,0 +1,18 @@
+{
+    "name": "uldisn/msword_add",
+    "description": "Set MS WORD read only",
+    "keywords": ["MS WORD", "readonly"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Uldis Nelsons",
+            "email": "uldis@weberp.lv",
+            "homepage": "http://www.weberp.lv"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
